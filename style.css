@@ -13,11 +13,11 @@ h1{
 
 @keyframes slidein{
 	from{
-		margin-top : 0%;
+		
 	}
 
 	to{
-		margin-top : 100%;
+		margin-top : 0%;
 	
 	}
 
