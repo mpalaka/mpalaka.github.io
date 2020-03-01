@@ -14,12 +14,10 @@ h1{
 @keyframes slidein{
 	from{
 		margin-top : 0%;
-		width : 300%
 	}
 
 	to{
-		margin-bottom : 100%;
-		width : 100%;
+		margin-top : 100%;
 	
 	}
 
