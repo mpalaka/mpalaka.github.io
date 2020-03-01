@@ -13,11 +13,11 @@ h1{
 
 @keyframes slidein{
 	from{
-		
+		transform : translateY(-100%);
 	}
 
 	to{
-		margin-top : 0%;
+		transform : translateY(0);
 	
 	}
 
